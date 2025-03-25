@@ -8,12 +8,9 @@ import concurrent.futures
 urls = [
     'https://kimi.moonshot.cn/chat',  # Kimi
     'https://metaso.cn/',                                # 秘塔AI搜索
-    # 'https://www.wenxiaobai.com/chat/200006?_rsc=56fry',  # 问小白
     'https://www.wenxiaobai.com/chat/200006',  # 问小白
     'https://chat.deepseek.com/',                        # DeepSeek
-    # 'https://yuanbao.tencent.com/chat/naQivTmsDa',       # 腾讯元宝
     'https://yuanbao.tencent.com/chat',       # 腾讯元宝
-    # 'https://zhida.zhihu.com/search/3654338546098316827',# 知乎直答
     'https://zhida.zhihu.com',# 知乎直答
     'https://chat.qwen.ai/'                             # Qwen
 ]
