@@ -1,0 +1,10 @@
+《三个臭皮匠》一个同时向多个AI提问的python程序
+1、使用chrome、edge
+2、安装《三个臭皮匠》
+3、登陆你自己的每个AI帐号，提问。
+4、下载地址
+蓝奏云
+https://wwvm.lanzouu.com/iiqLO2ri6xre
+密码:1111
+阿里云盘
+https://www.alipan.com/s/zBAVNLgRvLR
