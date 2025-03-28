@@ -7,6 +7,9 @@
 3、可以点击“检查已打开标签”查看有多个标签页是否正确
 
 4、输入提问内容，点击提交所有AI或者当前AI
+![2](https://github.com/user-attachments/assets/75ef8958-21f3-4b63-86d7-90fd0f026fe5)
+![1](https://github.com/user-attachments/assets/2e1019fb-16ac-46a5-bfa4-66e5c947a5ca)
+![3](https://github.com/user-attachments/assets/99a3bd24-bde4-4adb-b0b7-9adda0265cf7)
 
 
 QQ群：1037524108
